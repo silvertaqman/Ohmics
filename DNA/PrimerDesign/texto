@@ -20,6 +20,3 @@ Design genome-wide specific PCR primers.
 Python 3.8, [git clone https://github.com/samtools/samtools](Samtools) to convert fastq 2 BAM/CRAM, WDS/WES 2 VCF and manipulation of these formats. [git clone https://github.com/samtools/htslib](Here) and bcftools are needed too. 
 
 [sudo apt install ncbi-blast+](Blast) is easily accesed from NCBI's web page and from terminal. 
-
-
-
